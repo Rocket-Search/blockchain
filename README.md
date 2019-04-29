@@ -17,3 +17,5 @@ software.moore@gmail.com
 
 You can also download it at http://rocketsearch.ddns.net:8081/bc.tar.gz
 
+More Information:
+http://rocketsearch.ddns.net/index.php/en/blockchain
