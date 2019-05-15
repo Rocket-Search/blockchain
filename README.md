@@ -51,6 +51,7 @@ The blockchain server checks when starting whether all the peers known to him ar
 the blockers of the peers match the chain of the local server .
 The communication was encrypted using TLS 1.2 "ECDHE-RSA-AES256-GCM-SHA512".
 The server certificate has a 16384 bytes long key.
+The blocks are stored in the in-memory NoSQL Database redis.
 
 SAP Blockchain Connector:
 The SAP_BC stores the data encrypted with GPG (AES256) locally on a RAM disk.
