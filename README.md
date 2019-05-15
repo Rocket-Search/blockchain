@@ -21,6 +21,7 @@ More Information:
 http://rocketsearch.ddns.net/index.php/en/blockchain
 
 ##################
+
 technical overview
 
 All software components are written in C++ compiled with g++-7 (SUSE Linux) 7.3.1 20180307 [gcc-7-branch revision 258314]
