@@ -58,17 +58,30 @@ The SAP_BC stores the data encrypted with GPG (AES256) locally on a RAM disk.
 Via SSH, the SAP_BC can address the blockchain generator and send the data encrypted over the network.
 therefore a user authentication takes place at Blockchain Gernertaor.
 
-Network API:
+Features:
+
+Network API
+
 SHA512 transaction hash
+
 GPG encyrption ang signature with AES256 and SHA512 encryption, for each block
+
 Network transport encryption with TLS 1.2 and ECDHE-RSA-AES256-GCM-SHA512
+
 SAP system Blockchain Connector for SAP ERP 6.0 (FI_CO etc.)
+
 Timestamp for the transaction in the nanosecond range
+
 Using redis in-memory database
+
 Using RAM disks
+
 Distribute the blocks in a Perr-to-Peer network
+
 Thread based TCP connection management
+
 Cyclic validation of the whole chain on all peers.
+
 #################
 
 if you ask me, I will give you the source code
