@@ -83,5 +83,3 @@ Thread based TCP connection management
 Cyclic validation of the whole chain on all peers.
 
 #################
-
-if you ask me, I will give you the source code
